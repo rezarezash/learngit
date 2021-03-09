@@ -1,1 +1,1 @@
-this the file 7 in the root of the working directory
+this the file 7 in the root of the working directory. It was modified ib BR-3 branch
