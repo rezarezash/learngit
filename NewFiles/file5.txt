@@ -1,2 +1,2 @@
 The is the new file in the new files folder
-The file just was changed. This line was modified again in master branch
+The file just was changed. This line was changed in Br-3 Branch
